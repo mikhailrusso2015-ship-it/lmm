@@ -1,0 +1,10 @@
+# Exclude credentials
+claves_mike.txt
+
+# Exclude videos over 100MB (GitHub limit)
+MATERIALES DE LA AGENCIA/VIDEOS/ELEVATE 2024 ACINO.mp4
+MATERIALES DE LA AGENCIA/VIDEOS/REEL COMPLIANCE LMM.mp4
+MATERIALES DE LA AGENCIA/VIDEOS/REEL TURBO CALOX V4.mp4
+
+# Exclude Atamel raw footage (very large files)
+MATERIALES DE LA AGENCIA/CLIENTES/atamel/Pauta Comercial Atamel/
